@@ -25,3 +25,8 @@ kubectl get service
 
 ==========================
 
+kubectl apply -f manifest.yaml
+
+----------------------
+
+curl 192.168.0.**
