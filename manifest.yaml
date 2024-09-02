@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: jj975/whodocker
+        image: qwerty/whodocker
         ports:
         - containerPort: 80
 
